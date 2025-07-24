@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Domain", "CleanMovie.Domain\CleanMovie.Domain.csproj", "{F34B9EB0-4476-4134-81DC-07959F65DE12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Application", "..\CleanMovie.Application\CleanMovie.Application.csproj", "{CFF37603-BD73-4A62-A219-83E712EEA3A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Infrastructure", "CleanMovie.Infrastructure\CleanMovie.Infrastructure.csproj", "{42F6AE30-B284-4A97-B95A-C00A4FEC072D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.API", "CleanMovie.API\CleanMovie.API.csproj", "{6636BC4C-2BCD-41A3-A258-267C437F3697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34B9EB0-4476-4134-81DC-07959F65DE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34B9EB0-4476-4134-81DC-07959F65DE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34B9EB0-4476-4134-81DC-07959F65DE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34B9EB0-4476-4134-81DC-07959F65DE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF37603-BD73-4A62-A219-83E712EEA3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF37603-BD73-4A62-A219-83E712EEA3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF37603-BD73-4A62-A219-83E712EEA3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF37603-BD73-4A62-A219-83E712EEA3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F6AE30-B284-4A97-B95A-C00A4FEC072D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F6AE30-B284-4A97-B95A-C00A4FEC072D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F6AE30-B284-4A97-B95A-C00A4FEC072D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F6AE30-B284-4A97-B95A-C00A4FEC072D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6636BC4C-2BCD-41A3-A258-267C437F3697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6636BC4C-2BCD-41A3-A258-267C437F3697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6636BC4C-2BCD-41A3-A258-267C437F3697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6636BC4C-2BCD-41A3-A258-267C437F3697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
